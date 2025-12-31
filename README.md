@@ -15,10 +15,5 @@
 | (Template) Excel dashboard | Excel | сводные, ВПР, структура отчёта | [excel-dashboard-case](https://github.com/JuliaMamaMia/excel-dashboard-case) |
 | HTML/CSS: 3 учебных лендинга | HTML · CSS | скрины + GitHub Pages | [html-css-projects](https://github.com/JuliaMamaMia/html-css-projects) · [demo](https://JuliaMamaMia.github.io/html-css-projects/) |
 
-## Почему это удобно нанимающему
-- У каждого проекта есть README с итогом и “что смотреть”.
-- Код структурирован: `sql/`, `notebooks/`, `reports/`.
-- Есть артефакты (отчёты/скрины), а не только ноутбуки.
-
 ## Контакты
-y.negru@bk.ru · https://t.me/<your_handle>
+y.negru@bk.ru · https://t.me/urloser87
